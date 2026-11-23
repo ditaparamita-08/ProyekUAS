@@ -13,7 +13,7 @@ Program terminal berbasis TypeScript ini dibuat untuk petugas kasir area parkir.
 |----|------|-----|-------------|
 | 1 | Tessa Reja Gabeta Lubis| 263140701111054 | [@tessarejagabetalubis-cmyk]() |
 | 2 | Aditiya Dwi Paramita | 263140701111045 | [@ditaparamita]() |
-| 3 |  |  | [@]() |
+| 3 | Elsha Putri Rahmadani | 263140701111040 | [@elsharmdn]() |
 
 ## Pembagian Tugas dan Kontribusi
 
@@ -21,6 +21,6 @@ Program terminal berbasis TypeScript ini dibuat untuk petugas kasir area parkir.
 |------|-------------|--------------------------------------|--------------------------|
 | Tessa Reja Gabeta Lubis | @tessarejagabetalubis-cmyk | | (menyusul) |
 | Aditiya Dwi Paramita | @ditaparamita | | (menyusul) |
-| | @ | | (menyusul) |
+| Elsha Putri Rahmadani | @elsharmdn | | (menyusul) |
 
 
