@@ -20,7 +20,7 @@ Program terminal berbasis TypeScript ini dibuat untuk petugas kasir area parkir.
 | Nama | Akun GitHub | Fitur / Bagian Kode yang Dikerjakan | Link Pull Request Utama |
 |------|-------------|--------------------------------------|--------------------------|
 | Tessa Reja Gabeta Lubis | @tessarejagabetalubis-cmyk | Fitur Delete, fitur Search (kata kunci dan filter tambahan), integrasi operator dan materi pemrograman, serta penyusunan README.md. | (Menyusul) |
-| Aditiya Dwi Paramita | @ditaparamita | Fitur Read (menampilkan seluruh data dan detail berdasarkan ID), fitur Update, pengujian kedua fitur, serta pembuatan flowchart menu utama. | [ (Menyusul) |
+| Aditiya Dwi Paramita | @ditaparamita | Fitur Read (menampilkan seluruh data dan detail berdasarkan ID), fitur Update, pengujian kedua fitur, serta pembuatan flowchart menu utama. |  (Menyusul) |
 | Elsha Putri Rahmadani | @elsharmdn | Setup repository GitHub, struktur project, desain struktur data dan properti, menu utama (loop), fitur Create, serta validasi input.| (Menyusul) |  
 
 
