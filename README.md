@@ -12,7 +12,7 @@ Program terminal berbasis TypeScript ini dibuat untuk petugas kasir area parkir.
 | No | Nama | NIM | Akun GitHub |
 |----|------|-----|-------------|
 | 1 | Tessa Reja Gabeta Lubis| 263140701111054 | [@tessarejagabetalubis-cmyk]() |
-| 2 |  |  | [@]() |
+| 2 | Aditiya Dwi Paramita | 263140701111045 | [@ditaparamita]() |
 | 3 |  |  | [@]() |
 
 ## Pembagian Tugas dan Kontribusi
