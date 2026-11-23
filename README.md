@@ -1,12 +1,11 @@
 # ProyekUAS
-# Project-UAS
 # Perancangan Aplikasi Kasir Parkir untuk Pengelolaan Data Kendaraan, Pencatatan Transaksi, dan Perhitungan Biaya Parkir Otomatis
 
 Program terminal berbasis TypeScript ini dibuat untuk petugas kasir area parkir. Setiap kendaraan yang keluar dicatat sebagai transaksi dan disimpan sementara di memori dalam bentuk array. Biaya parkir dihitung otomatis dari jenis kendaraan, hari, durasi parkir, dan status member. Petugas juga bisa menambah, melihat, mengubah, menghapus, dan mencari transaksi (CRUD + Search), sehingga riwayat parkir tidak perlu dihitung dan dicatat manual lagi.
 
-**Mata Kuliah:** Pemrograman Dasar
-**Kelas / Kelompok:** T1D / Kelompok 6
-**Dosen Pengampu:** Salnan Ratih Asriningtias, ST., MT.
+**Mata Kuliah:** Pemrograman Dasar  
+**Kelas / Kelompok:** T1D / Kelompok 6  
+**Dosen Pengampu:** Salnan Ratih Asriningtias, ST., MT.  
 
 ## Anggota Tim
 
